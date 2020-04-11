@@ -44,7 +44,7 @@ horse_group = {
 		mother_name_chance = 0
 
 		used_for_random = no
-		allow_in_ruler_designer = no
+		allow_in_ruler_designer = yes
 
 		modifier = default_culture_modifier
 		
@@ -101,7 +101,7 @@ cat_group = {
 		mother_name_chance = 0
 
 		used_for_random = no
-		allow_in_ruler_designer = no
+		allow_in_ruler_designer = yes
 
 		modifier = default_culture_modifier
 		
@@ -152,7 +152,7 @@ bear_group = {
 		mother_name_chance = 0
 
 		used_for_random = no
-		allow_in_ruler_designer = no
+		allow_in_ruler_designer = yes
 
 		modifier = default_culture_modifier
 		
@@ -201,7 +201,7 @@ hedgehog_group = {
 		mother_name_chance = 0
 
 		used_for_random = no
-		allow_in_ruler_designer = no
+		allow_in_ruler_designer = yes
 
 		modifier = default_culture_modifier
 		
@@ -253,7 +253,7 @@ duck_group = {
 		mother_name_chance = 0
 
 		used_for_random = no
-		allow_in_ruler_designer = no
+		allow_in_ruler_designer = yes
 
 		modifier = default_culture_modifier	
 		
@@ -310,7 +310,7 @@ dog_group = {
 		mother_name_chance = 0
 
 		used_for_random = no
-		allow_in_ruler_designer = no
+		allow_in_ruler_designer = yes
 
 		modifier = default_culture_modifier
 		
@@ -359,7 +359,7 @@ elephant_group = {
 		mother_name_chance = 0
 
 		used_for_random = no
-		allow_in_ruler_designer = no
+		allow_in_ruler_designer = yes
 
 		modifier = default_culture_modifier
 		
@@ -412,7 +412,7 @@ dragon_group = {
 		mother_name_chance = 0
 
 		used_for_random = no
-		allow_in_ruler_designer = no
+		allow_in_ruler_designer = yes
 
 		modifier = default_culture_modifier
 		
@@ -469,7 +469,7 @@ panda_group = {
 		mother_name_chance = 0
 
 		used_for_random = no
-		allow_in_ruler_designer = no
+		allow_in_ruler_designer = yes
 
 		modifier = default_culture_modifier
 		
